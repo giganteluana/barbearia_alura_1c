@@ -1,9 +1,13 @@
 <body {
-background: #ccccc;
+    
+}
+.principal {
+    background: #ccccc;
+    paddding: 30px;
+}
 #banner {
     width: 100%;
 }
-
 p {
     text-align: center;
 }
